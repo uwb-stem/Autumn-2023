@@ -1,0 +1,37 @@
+{
+    "csse": [
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-7-200",
+            "title": "Learning Databases",
+            "studentName": "Syrus Nelson",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty Research",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/csse/nelsonsyrus_3990816_113348406_CSS497_SyrusN_CapstonePoster-1.jpg",
+            "abstract": "During my research project, \"Learning Databases,\" I have been able to work on the full stack of the project and manage my own daily tasks. Part of working on the full stack involved knowing how the interaction between the front-end and the backend works. This involved working on both the front-end and backend. The front-end work entailed working on the design and the functionality of each reusable component. On the backend, I needed to not only continue working on the core functionality of the tool, but test to make sure each part works. \n\n The tool itself serves to help students in the CSS475 class at UW Bothell to mainly learn how to translate relational algebra (RA) to SQL. Previously, there was a tool used at UW Bothell to do the same translation functionality, however it mainly left out some RA operators that the students would need to learn.\n\n Putting the full stack application together, the tool allows the user to view sample data, view entity relationship diagrams, create and edit RA on sample data, translate RA to SQL, and then execute the SQL.\n\n Having this tool equips future students of the CSS475 class with the ability to have hands-on learning with translating between RA and SQL. This is an improvement over the videos I watched in CSS475 during Summer 2023 which only gave specific and limited examples of translation. "
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-7-215",
+            "title": "Empowering Educators: The Teaching Tools Application Development Journey",
+            "studentName": "Taras Krichilskiy",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty Research",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/csse/krichilskiytaras_4230875_113407301_Poster-1.jpg",
+            "abstract": "This presentation explores the development of a teaching tools application created to assist teachers within the Canvas platform. Collaborating closely with Professor Mark Kochanski, the project focused on optimizing Canvas for educators by merging the Canvas API with the Google API. The core objective was to seamlessly integrate these APIs into existing teaching tools, thereby enabling educators to efficiently manage tasks such as grading and syllabus organization within a unified platform.\n\n During the project, three key tasks were tackled: the creation of an innovative authentication system, the implementation of OAuth 2.0, the development of a user-friendly front-end button login system, and the establishment of a batch and class view system. This latter feature was especially important as it allowed professors to distinguish between managing multiple classes simultaneously or focusing on a single class.\n\n The successful execution of these tasks yielded significant results. The new authentication system not only bolstered security but also simplified the login process. Furthermore, the implementation of OAuth 2.0 enhanced compatibility with contemporary authentication standards. The user-friendly front-end login system improved accessibility, while the batch and class view system provided educators with the flexibility to navigate their classes seamlessly.\n\n The significance of these achievements cannot be overstated. By simplifying the login process and introducing class management flexibility, educators now have an intuitive and efficient platform at their disposal. For instance, when downloading syllabi, instructors can opt to retrieve a single syllabus or multiple syllabi for different classes with a single click. Similarly, importing class rosters has been streamlined, allowing teachers to import rosters for individual classes or retrieve rosters for all their current classes.\n\n In conclusion, this project underscores the importance of leveraging technology to enhance educational tools. The integration of Canvas and Google APIs, along with the development of authentication systems and user-friendly interfaces, has significantly improved the teaching experience. These achievements represent a significant step towards a more efficient and user-centric educational environment, benefiting both educators and students. "
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-7-230",
+            "title": "UWTechPrep: Mentor Network",
+            "studentName": "Jason Chu",
+            "studentMajor": "CSSE",
+            "projectType": "Faculty Research",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/csse/chujason_LATE_4170498_113517435_PosterV2.png",
+            "abstract": "UWTechPrep is a website created as an initiative to assist CSSE students with technical interviews and career coaching. The website aimed to provide a flexible platform for UW to curate specialized programs and select industry professionals as mentors for students. The application allows students to schedule one-on-one appointments with mentors.\n\n Originally the previous code was built on Flask Jinja, limitations to this framework prompted a migration to React. This allowed development to be done through components to promote a modular design approach that streamlined future scalability and feature integration. Furthermore, the shift gave access to the use of pre-existing libraries to speed up development.\n\n The resulting migration led to a restructuring of the backend Flask API and the addition of extra tables to the MySQL database to handle new features and information being sent from the frontend React UI. The original code was rewritten to contain the correct functions and API calls to manage the communication from the UI components of the React-based website.\n\n The work I did established a foundation for future students to develop from. The migration to the new architecture makes it easier and faster to implement new features as requirements quickly evolve. This work greatly enhanced my knowledge and skill in full-stack development. "
+        }
+    ]
+}

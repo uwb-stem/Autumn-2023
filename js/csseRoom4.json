@@ -1,0 +1,96 @@
+
+{
+    "csse": [
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-4-100",
+            "title": "Unified Cost Analysis Dashboard",
+            "studentName": "Sasank Chennapragada ",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Johnny Lin ",
+            "posterLink": "./posters/csse/chennapragadashashank_3933299_113476214_Poster Final.png",
+            "abstract": "For my capstone, I chose to do an internship at People Tech Group, an IT consulting company based in Redmond, WA. The internship was focused on creating a Unified Cost and Usage Reporting (CUR) Dashboard in PowerBI. The primary objective of this project from our client was to consolidate their spending or CUR data from Azure, AWS, and GCP into a single interface for streamlined cost analysis as this would allow the client make informed decisions, eliminate redundancies, and optimize costs effectively across different cloud platforms.\n\n The product comprises of a centralized cost analysis dashboard with four tabs: Summary, AWS, GCP, and Azure. The Summary tab contains an overview of costs across different services, departments, and product families within the three cloud platforms. The other three tabs offer detailed insights on their respective cloud platform’s costs incurred. A feature that we also integrated into the dashboard is an AI chatbot accessible through the query button. This chatbot can allow users to efficiently retrieve specific cost-related information in the dashboard and after further development, receive recommendations for cost optimization helping reduce their costs. This project is significant in easing the challenges of multi-cloud management by providing a user-friendly, consolidated interface with an AI chatbot enhancing decision-making and cost efficiency. "
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-4-115",
+            "title": "Using DataBricks to Modernize Financial Transaction Data Processing",
+            "studentName": "Morrison Young",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Johnny Lin ",
+            "posterLink": "./posters/csse/youngmorrison_4107661_113474418_Morrison Young Capstone Poster.jpg",
+            "abstract": ""
+        },
+       
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-4-145",
+            "title": "Software Engineer Intern: Enhancement of Trouble Shooting Metrics",
+            "studentName": "Nathaniel Fincham",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/finchamnathaniel_4283651_113471552_ResearchPoster-Horizontal.png",
+            "abstract": "During the summer of 2023, I worked as an intern with Amazon Web Services within their API Gateway organization. Our organization provided a gateway service for customers when accessing the Lambda service of AWS. The API Gateway organization was broken up into three sub-organizations Control Plane, Data Plane, and Routing. My team was in the Control Plane sub-organization and oversaw all the workflows for the Control Plane.\n\n Within the operations of my team, there were situations where on-call engineers required additional information to resolve various issues that arise in the production environment. From the onset the goal of my project was to create additional metrics for my team and provide easy access to this information to make on-call decision making faster. By speeding up the decision-making process, on-call engineers could provide more succinct resolutions to issues that would arise within the service. I was tasked with developing the project from end-to-end. This included design, requirements, implementation of code, tests, and writing documentation for the project. While this was a lot to undertake, I saw it as an opportunity to display my skills and apply many of the concepts I had learned in my Computer Science and Software Engineering program at University of Washington at Bothell. Roughly about six weeks of my 12-week internship was spent on the project’s design and requirements. Much of that time was spent in meetings with team members and senior engineers from around the organization to establish a solid path forward for the project. As the scope of work grew during the design phase, my mentor and I realized that the goals of the project would have to be reduced to accommodate my internship timeline. So, we revised the goals and developed a more manageable scope of work that still provided value to the team and enabled me to deliver a final product for them. Once the design was finalized, I spent about 4 weeks working to implement my feature into all the necessary code bases. This included metric generation code and creating additional features for the team’s on-call dashboard. The implementation of the necessary code required me to integrate with several different code libraries and utilize a range of AWS cloud services. Once my project was completed, my metrics were successfully deployed into my team’s production environment, and they were able to easily access the information on the dashboard features I created.\n\n All-in-all the project and my experience working at AWS enhanced my understanding of how the industry applies the concepts that I have been learning in my degree program. While small in comparison to many of the tools my team uses, my project added value to the team and will enable them to work more effectively in the future. "
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-4-200",
+            "title": "Software Engineer Internship @ REI",
+            "studentName": "Spoorthi Gowda",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/gowdaspoorthi_3888540_113453303_Capstone poster NEW.jpg",
+            "abstract": "I worked as a software engineer intern at REI for three months for my capstone project.\n\n To give some background, REI is a retail corporation that specializes in outdoor recreation services. REI offers a variety of products, such as camping gear, hiking, climbing, cycling, water, running, fitness, snow, and travel equipment, along with clothing for men, women, and kids. There are 179 stores across 39 states in the US.\n\n During my first month there I was introduced to various tools regularly used at REI such as Kafka, DBeaver, Postman, and IntelliJ. I was also assigned a mentor who helped me through every step of the way during my time there. I worked under the Order Management (OMS) platform team. This platform oversees the entire digital order process, from creation to delivery or pickup. In business terms, it's the behind-the-scenes system directing an order's journey. To be more specific I worked for the ASSET (Availability, Supply Service, and EAD) team which managed the different inventory movements, moving products from one storage location to another.\n\n My role was to create automated test cases. During month two, I started development. I developed the test framework and automated a few test cases for the different scenarios. During my last month there I continued working on development and worked on the final presentation where I presented what I worked on in REI."
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-4-215",
+            "title": "Da Yang Seafood Software Engineer Internship",
+            "studentName": "Eugene Hung",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/hungeugene_LATE_4200242_113568954_DaYang - Internship Poster.pptx.png",
+            "abstract": "For my capstone, I worked as a full-time software engineer intern at Da Yang Seafood, Inc. Da Yang is a fishery, processing, and distribution company. During my internship, I worked on multiple software engineering projects that touched upon various aspects of the company's operations. My primary focus was on three key areas: Enterprise Resource Planning (ERP) system development, object recognition technology for fish processing, and Point of Sale (POS) system development.\n\n ERP System Development: The company is developing a new ERP workflow system. I attended several meetings with the factory manager to understand the workflow from boxing the fish to it being delivered to the customer's hand. I developed a database model and a sample program using the model. The model and program are operational and will be reviewed and modified by supervisors.\n\n Object Recognition for Fish Processing: The object recognition project is still in early development and lacks data. I worked in the processing line to understand how the processing works. I took images of fish and used OpenCV to adjust the images. I label the images, develop models to train classifiers, test and adjust different models, images, and parameters, and record the results. The collected and organized data will be used for future development of the object recognition technology.\n\n POS Machine Development Framework: The company will likely develop a POS machine in the future. I conducted an in-depth analysis of the requirements and frameworks of POS machines. My work assists the company in having a clearer understanding of POS machines and a framework for future development. My internship at Da Yang Seafood, Inc. has been challenging yet fulfilling. My work will be valuable for advancing the company's technology in ERP systems, object detection, and POS machine development. "
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-4-230",
+            "title": "Backend Development Internship at PT Bank Mandiri (Persero) Tbk ",
+            "studentName": "Keyshia Lauren",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/laurenkeyshia_4283922_113470945_CSS 497- Capstone Poster.png",
+            "abstract": "This capstone project was an internship sponsored by PT Bank Mandiri (Persero) Tbk, an Indonesian state-owned enterprise that provides a wide range of financial services. My internship placement was in the digital banking delivery group, specifically on the backend development of Livin' by Mandiri. Livin' by Mandiri is a financial super-app that makes it easy for customers to transact safely, easily, and quickly via a mobile phone.\n\n Bank Mandiri implements both the Agile methodology and DevSecOps framework which focuses on continuous releases and the incorporation of customer feedback with every iteration. I was placed on Squad 3, which consisted of one sub-lead and three other backend developers, with a scrum master and product owner. Squad 3 developed a feature that will make it simple for users to open a customer fund account and create an investment portfolio that is integrated with Securities Companies that the company has partnered with. \n\n With a combination of tools, such as Jira, Confluence, Bitbucket, and Kibana, each team member was able to collaborate to successfully implement the project. We utilized Java, SpringBoot framework, and Maven to build the solution for the backend part of the application.\n\n The product owner will work with stakeholders to create and understand the requirements of the project. These requirements will then be translated into user stories. The solution analyst will create “tickets” that include UML diagrams and other necessary documentation based on the user story and code for the developers. Once code changes have been made according to the “tickets,” developers need to push the changes and check for a successful build through the pipeline process. Testing was done by the tester team where a set of expected behaviors are compared to the actual behavior of the feature.\n\n As developers worked together to finish the feature, users could create new customer fund accounts, view portfolios in affiliated and unaffiliated securities companies, and withdraw and top up funds into their customer fund accounts. The feature was satisfactory and released to the public. "
+        },
+        {
+            "time": "2:45 PM - 3:00 PM",
+            "projectId": "csse-4-245",
+            "title": "Virtual CLoset Website",
+            "studentName": "Jessica Minronyuk",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/mironyukjessica_4170760_113456481_Mironyuk_Jessica_Capstone_Poster2.png",
+            "abstract": "My Capstone was an individual project aiming to develop a working prototype for an online closet website called Enligne Armoire. The purpose of the website was to focus on providing a virtual space where users can upload information and images of their clothing so that they can keep track of garments they want to purchase or sell, and creating outfits while also not feeling pressured to use it due to spending money for the website or taking up space on a phone.\n\n The first step to creating the website was creating requirements that focused on functionality, such as basic CRUD features for garments and outfits and requirements that focused on functionality, such as pre-filling the form with previous data when the user wants to edit a garment. Requirements were also gathered from what sponsors expected to see.\n\n The online closet website was implemented using a full-stack approach with Node.js and Express.js as the backend and EJS, HTML, and CSS as the frontend. It was hosted on Microsoft Azure, which also hosted the mySQL database. Additionally, Amazon S3 handled image hosting.\n\n Finally, testing was split between testing functionality of the features and collecting feedback from sponsors after the website walkthroughs.\n\n Through the development process, I was able to continuously integrate sponsor feedback while building a website that followed requirements, resulting in the successful creation of a working prototype for the Enligne Armoire online closet platform. "
+        },
+        {
+            "time": "3:00 PM - 3:15 PM",
+            "projectId": "csse-4-300",
+            "title": "DevOps Internship at Interview_Bot",
+            "studentName": "Hao Yang",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/yanghao_4028699_113422795_Poster_HYang.jpeg",
+            "abstract": "The main aim of this capstone project was to set up and manage continuous integration/continuous deployment (CI/CD) pipelines, configure and maintain infrastructure as code, monitoring system performance, and Troubleshooting issues. The initial task was to migrate the application form Amazon Web Services to Google Cloud Platform to enhance communication speed. Which is part of the CD process. This migration involved creating Docker images for both frontend and backend, simplifying the environment setup process. These GitHub Action were designed to automated the building and pushing of new code to the codebase, uploading it to Google Artifact Registry, and deploying it to the GKE cluster.\n\n Upon receiving the test code for our application, I began developing another GitHub Action for automated testing, addressing the CI process. I crafted a YAML file for the automated tests, setting up the test environment and calling the appropriate test code. After each push and pull request, the code was automatically tested, with notification sent to the developer if the code failed the tests.\n\n The CD process was successfully completed, with the application being hosted on the GKE. The CI process was also completed but was not implemented in the development environment due to the constantly changing AI market, prompting the company to reevaluate the project during my final week of the internship."
+        }
+    ]
+}
+
+

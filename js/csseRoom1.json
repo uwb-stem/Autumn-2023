@@ -1,0 +1,107 @@
+
+
+{
+    "csse": [
+        {
+            "time": "1:00 PM - 1:30 PM",
+            "projectId": "csse-1-100",
+            "title": "Quranic: Quran Learning App",
+            "studentName": "Omar Shabah\n\nNuh Sira",
+            "studentMajor": "CSSE\n\nCSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Bob Dimpsey",
+            "posterLink": "./posters/csse/sirajnuhm_LATE_4231291_113484720_Quranic.png",
+            "abstract": "During this internship our team of interns developed a web application for the company Quranic. We created a figma designs on how it would look and function. The web app is based on the mobile ios application that they have live.\n\n Quranic isn’t the only quran learning application there are others. To expand to different users from other platforms, they wanted to make a web application. Quranic decided to use a flutter framework to do this since flutter has cross platform capabilities for IOS, Android and Web. This way the created flutter codebase can eventually replace the IOS and Android code bases, and be the only one for all three platforms in the future.\n\n The result of what we were able to do so far in our internship was create the designs for web design for UI, as well as working on mobile design for the application. Create a homepage UI with chapters of the quran displayed, a reading room page that displays the rooms where you can join and create rooms, to speak and study with other users.\n\n The significance of this project is to expand Quranics user base, Quranic main feature that sets it apart other quran learning apps is the reading room functionality that lets you interact and connect with other users on the app. "
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-1-130",
+            "title": "Software Development: Antique Mall Management System",
+            "studentName": "Maggie Summer",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Bob Dimpsey",
+            "posterLink": "./posters/csse/summersmaggiel_LATE_4004984_113483470_csse_capstone_poster.png",
+            "abstract": "For this project, I developed management system software for the Olde Central Antique Mall in Port Orchard, WA. Their current methods of operation are tedious and prone to human error. Their main problem lies with how sales are processed.\n\n The mall uses an old application built in the 80s with limited functionality, requiring users to enter the name, price, date, payment type, and date for every item sold. This has proved time-consuming and cannot reasonably be done at the time of sale, so all the sold item tags for each day are stapled together and entered into the system after closing hours. One can only imagine the number of hours wasted and typographical errors made when entering so many sales in the evening.\n\n To remedy the mall’s issues, I, with help from my sponsors, designed and developed a Windows application comprising four major components: sales management, report generation, QR code tag generation, and vendor/store information management. These four components aim to fix the most pertinent issues while fitting the mall’s current business model. Most notably, they provide a point-of-sale interface where users can scan QR codes for sold items in seconds but also manually enter items that still have handwritten tags. While the software being developed is not new or groundbreaking, it has been developed with great care and will be utilized in the real world by a small business. "
+        },
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-1-145",
+            "title": "Amazon Software Development Engineer Internship",
+            "studentName": "Martin Huynh",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/huynhmartin_4002430_113475283_Capstone Poster.png",
+            "abstract": "For my capstone project, I had an internship at Amazon where I was a part of a team that worked on AWS Supply Chain. It is a service that allows customers to aggregate data from supply chain systems into one place. It automatically generates insights of potential supply chain risks such as below or above average stock levels that helps mitigate risks and lower costs utilizing machine learning. As an intern, my role was to work alongside my mentor to design and implement a solution that solves an issue with the service.\n\n The Help Center for AWS Supply Chain needed more resources to help the customer in the onboarding process. At the time, there were only static videos and a link to the user guide. The process to find information was tedious for the customer as they had to navigate through the user guide.\n\n The problem we chose to solve was to improve the Help Center by creating a Help Agent leveraging LLM with RAG. This will allow the user to ask questions and receive generated responses. This architecture provides the LLM with context to use which will allow answers to be kept up-to-date without the need to retrain the LLM (time and resource heavy). This will also limit the LLM to only respond to AWS Supply Chain related questions.\n\n As a result, this solution provided AWS Supply Chain a Help Agent that allows customers to quickly receive help rather than searching through the user guide manually. It also provides the service with an AI powered agent that can be quickly updated to improve responses and answer additional questions. "
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-1-200",
+            "title": "Software Developer at Western Mutual",
+            "studentName": "Labib Joarder",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/joarderlabibhasan_4022037_112846153_POWERPNT_LHGQ4UlllV.png",
+            "abstract": "This internship at Northwestern Mutual has been a wonderful experience, I had the opportunity to contribute significantly to the Linknet Platform as a Software Engineering intern within the Workplace Portal organization. Linknet is a crucial tool for Northwestern Mutual’s field employees, providing them with essential resources and applications to facilitate the delivery of financial solutions to clients. With tens of thousands of daily users, the platform serves as a dynamic hub for information access and content management.\n\n Throughout the internship, I collaborated closely with a team of talented engineers, UI experts and business analysts, while actively participating in Agile methodologies. I utilized technologies such as React, TypeScript, SASS and ASP.NET. With these technologies, I not only increased flexibility of the Linknet Content Management System’s authors, but I was also able to improve the accessibility of the platform. \n\n The internship also extended beyond my team, involving active participation in intern events, Lunch and Learn session and executive speaker events that fostered networking and insights into how the company works. I also collaboratively presented my contributions to my team alongside other interns that were a part of the same organization I was a part of. On a personal level, the internship acted to grow, refine my communication skills, deepen my understanding of agile software development processes.\n\n This internship yielded impactful outcomes. Technical advancements included font size adjustments, refactors of parts of Linknet, a more flexible CMS and enhancing accessibility and content management. Personally, this experience solidified my commitment to software engineering to impact the world. This internship showed me how important it was to have teamwork within a team and come up with innovative solutions and learnings across the team to shape a successful career. "
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-1-215",
+            "title": "Software Development Engineer Internship at Amazon",
+            "studentName": "Daniel Kantor",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/kantordanielanthony_3825147_112651436_CSSE_Capstone_Poster (Daniel Kantor)-1.png",
+            "abstract": "For my capstone during Summer 2023, I completed a software development engineer internship at Amazon. I worked specifically within Amazon Web Services (AWS) and was working within the EC2 service. My organization within EC2 is responsible for developing and maintaining networking devices that process network packets coming to and from EC2 instances. My project was to create an end-to-end packet analyzer service/pipeline, that would collect data about network packet travel, perform data engineering processes, and push that data to a visual dashboard that could be used to troubleshoot packet issues.\n\n The reason for this project was that wasn’t an efficient method of troubleshooting packet issues that could pop up from these networking devices. Because of this, my project was deemed important for the org, as it could help bring troubleshooting times down significantly, therefore improving EC2 customer satisfaction.\n\n For my project, I created everything from the ground up. This included the initial design, which involved creating design documentation, gathering customer research, participating in many design doc review meetings with more experienced engineers, etc. From there, I implemented my project using multiple AWS services, including S3, Glue, EventBridge, Athena, and Quicksight. These were necessary for storage, data engineering, querying, and dashboards. I also used Python and Spark to write ETL (Extract, Transform, Load) scripts for data transformation.\n\n This internship was an amazing experience, and it was a fantastic learning opportunity within a supportive working environment. I learned a lot about the process of software development in a large tech company, as well as how to create a full-scale service from the ground up. In the end, I was able to successfully complete my project within the internship’s timeframe, as well as present a live demo and presentation of the project in front of the entire org. I also went through the process of handing off my project to my team so it could be used and improved upon in the future. "
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-1-230",
+            "title": "Providing automated feedback for programming assignment submissions",
+            "studentName": "Kevin Long",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/longkevin_LATE_4053218_113480231_Poster.png",
+            "abstract": "In introductory programming courses, providing effective feedback to students is essential for developing their skills. Traditional feedback methods, however, often face challenges like limited instructor availability and the complexity of manual tools. To address these issues, I developed an automated system for providing feedback on programming assignment submissions. This system integrates tools such as GitHub Actions for workflow automation, GoogleTest for unit and integration testing, valgrind and AddressSanitizer for memory error detection, clang-tidy for static analysis, and clang-format for code style checking./n/n Students use this system by creating forks of a master assignment repository, modifying the starter code, and committing their changes to their forked repository. When they push these changes to the remote repository, an automated workflow is triggered that evaluates their submissions using predefined tests and scripts. This process provides immediate, consistent feedback and acquaints students with industry-standard practices and tools, including continuous integration/continuous deployment (CI/CD) and various code evaluation technologies./n/n Over 10 weeks, I developed this system for eight different programming assignments in CSS 342 and CSS 343. The system has significantly improved feedback quality and efficiency, reducing the manual evaluation workload for instructors and teaching assistants. By leveraging a comprehensive testing framework in GoogleTest, it offers increased robustness compared to previous methods, featuring richer assertions, better-organized tests, more detailed failure messages, and finer execution control./n/n While this system marks an improvement over existing programming education feedback systems, it has limitations and areas for future development. These include expanding its adaptability to more programming languages and testing frameworks, enhancing the user interface for easier student interaction, and incorporating advanced code analysis techniques. Further research could also examine the long-term educational impacts of such automated systems on student learning outcomes. "
+        },
+        {
+            "time": "2:45 PM - 3:00 PM",
+            "projectId": "csse-1-245",
+            "title": "Simplify Wi-Fi Profile XML Creation for Network Creation",
+            "studentName": "Ayesha Mohammed",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/mohammedayeshazahra_4139575_113425703_colloquium poster.png",
+            "abstract": "For my internship capstone project, I addressed the challenges posed by the manual construction of WLAN Wi-Fi XML profiles for Windows operating systems in modern networking environments. I developed an innovative app designed to simplify the creation of these profiles, ensuring their seamless integration into existing provisioning methods. My solution involved guiding users through an intuitive process for creating XML profiles, thereby eliminating the complexity and potential errors associated with manual construction. Leveraging an open-source Profile Generator API, I enabled the conversion of Wi-Fi profile values into valid WLAN Wi-Fi XML profile text, streamlining the overall profile creation workflow.\n\n The app's functionality allows users to effortlessly generate XML WLAN WiFi profiles with the click of a button. These profiles can then be easily incorporated into devices using PowerShell commands or uploaded to the network provider's portal, significantly reducing the time spent on troubleshooting non-functional profiles. My approach not only simplifies the profile creation process but also enhances user experience by providing validation checks and facilitating error identification during data input.\n\n Throughout the project, key takeaways included the development of a comprehensive design document that streamlined the development process, a deeper understanding of computer networking and technology, and the importance of effective project management in achieving timely deliverables. The rigorous testing process underscored the need for meticulous attention to detail, reinforcing the critical role of thorough quality assurance measures. Furthermore, the project facilitated the acquisition of valuable skills in TypeScript and frameworks, along with the creation and integration of an API within the application."
+        },
+        {
+            "time": "3:00 PM - 3:15 PM",
+            "projectId": "csse-1-300",
+            "title": "Engineering Summer Analyst at Goldman Sachs ",
+            "studentName": "Matthew Perry",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/perrymatthewcooper_4140030_112846051_POSTER FINAL VERSION 1080x1440.png",
+            "abstract": "For my capstone, I worked at Goldman Sachs as a Software Engineering Intern in their Global Investment Research division. Global Investment Research provides research on companies, industries, and economies to both internal and external clients of the firm. During my internship I worked with three other interns. The project that we worked on was a speech synthesis service that improves accessibility of the firm’s investment research for clients.\n\n Most of the work related to the project was related to backend development, infrastructure, and cloud technology. The language that most of my code was written in was Java with the use of the Spring Boot framework. I also used the AWS SDK to interact with AWS services in the code I was writing. I used Terraform to provision infrastructure and setup IAM policies and security groups for the various AWS resources that we used. For testing and debugging, I used JUnit, Mockito, Datadog, and GitLab CI/CD pipelines. One of the biggest technical challenges was that this was my first time working in large codebases. This process could get overwhelming, but all my coworkers were really helpful and walked me through how everything worked.\n\n Throughout the project I got to learn more about the software development lifecycle and used Jira tickets for weekly sprints. Standups and code reviews also helped me communicate with my teammates about what I was working on and allowed me get help on things I was struggling with. I learned a lot about working in a team and was able to learn quite a bit from the various people I worked with throughout the internship. At the end of the internship, I had the opportunity to present to both technical and non-technical audiences. Overall, the internship was an amazing experience, and I learned a lot of useful skills that helped me improve as a software engineer. "
+        },
+        {
+            "time": "3:15 PM - 3:30 PM",
+            "projectId": "csse-1-315",
+            "title": "LLM Research @ Gekko Corporation",
+            "studentName": "Steven Su",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship or job opportunity ",
+            "facultyAdvisor": "Dr. Yusuf Pisan",
+            "posterLink": "./posters/csse/susteven_4025824_113309324_poster.png",
+            "abstract": "Around March of 2023, Meta (previously Facebook) released a modular and opensource LLM named LLaMa. With its smaller size compared to ChatGPT, LLaMa models are able to be downloaded on consumer-grade machines. This creates endless possibilities as companies are able to create and leverage their own AI solutions that aren’t reliant on ChatGPT’s existing infrastructure. On top of this, local LLMs offer several advantages including security, control, and customizability. As the world and tech industry starts to adapt more and more around AI and its usage, being able to leverage AI without having to rely on AI giants like OpenAI is crucial. Not only do companies and people get to keep sensitive information in their own private systems, the crucial “balance” of power around AI is maintained.\n\n Gekko Corp is one of such companies, with the goal of utilizing LLMs to aid doctors - making healthcare more affordable. Therefore, the goal of the Internship was to harness the power of pre-trained LLMs off the AI hub, Huggingface to meet the organization’s needs. While the initial approach was to download and run models on my laptop, it was quickly discovered that it simply didn’t have the hardware to efficiently run even the smallest models. As a result, we opted to deploy the models on the Google Cloud Platform to take advantage of the rentable T4 GPUs.\n\n Throughout this internship, I worked closely with my mentor to evaluate and deploy models, as well as discuss the usages and effectiveness of LLMs. As a result, I was able to experience first-hand how we could manipulate LLMs to do tasks such as summarize doctor-patient conversations, diagnose patients on said conversations, and even tasks that were non-healthcare related like sentiment analysis. Despite promising results, the generation of gibberish, hallucinations and hardware requirements also showed me the other side of LLMs, and just how raw and new this technology is. Due to results that are seemingly random and heavily based on the model, we came to the conclusion that local LLMs (especially small models) are not quite ready for commercial use, especially in healthcare. That being said, we came to the conclusion that LLMs definitely have the potential to revolutionize industries. With the release of LLaMa 2 in July, it won’t be long until the rapidly growing open-source LLMs are widely used. "
+        }
+    ]
+}
+
+
